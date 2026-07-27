@@ -1,0 +1,2 @@
+MooDrive é um NAS feito para ser leve e rápido.
+Ele tem capacidades básicas de NAS sem muito bloat, basicamente ele faz upload de arquivos, vizualiza esses arquivos e baixa eles.
